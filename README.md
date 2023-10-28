@@ -1,6 +1,6 @@
 # Homography-Estimation
 
-The objective is to perform camera pose estimation using homography. Given a video the
+The objective is to perform camera pose estimation using homography without using inbuilt OpenCV functions. Given a video the
 task is to compute the rotation and translation between the camera and a coordinate frame whose
 origin is located on any one corner of the sheet of paper.
 
@@ -13,3 +13,6 @@ world points and pixel coordinates of the corners.
 
 Data:
 The dimensions of the paper is 21.6 cm x 27.9 cm.
+
+
+![Homography Screenshot](https://github.com/chaitkul/Homography-Estimation/assets/127642282/35075e6e-171d-46e4-b964-b3e1510e5368)
