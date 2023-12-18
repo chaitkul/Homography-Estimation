@@ -19,4 +19,5 @@ The dimensions of the paper is 21.6 cm x 27.9 cm.
 
 The Rotation matrix, Translation vector and the Homography matrix will be printed at each iteration
 
-![Homography Screenshot Terminal](https://github.com/chaitkul/Homography-Estimation/assets/127642282/1ebfee05-6c3e-4092-967b-acd2bcfbc944)
+![image](https://github.com/chaitkul/Homography-Estimation/assets/127642282/4f710283-59a0-4902-a38b-708abc748c5a)
+
