@@ -1,4 +1,4 @@
-# Homography-Estimation
+# Camera Pose Estimation using Homography
 
 The objective is to perform camera pose estimation using homography without using inbuilt OpenCV functions. Given a video the
 task is to compute the rotation and translation between the camera and a coordinate frame whose
